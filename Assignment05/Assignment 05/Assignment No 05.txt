@@ -1,0 +1,24 @@
+-----------------------------
+Analysis of Titanic DataSet
+-----------------------------
+
+Perform the following excercises using Python or R:
+
+
+1. Import the required libraries and the dataset
+
+2. Check the summary of the whole dataset
+
+3. Investigated the following questions or any other that you have:
+
+	- How was the distribution of the passengers based on different criteria:
+		. overall number of males and females onboard and also across different passenger class
+		. overall age distribution and across different passenger class
+		. fare distribution across different passenger class
+		. distribution of males and females travelling with family (parents / siblings / spouses / children)    
+
+	- What are the factors or combination of factors that show strong link with survival ?
+
+4. To answer above questions make use of data visualisation and descriptive statitics. Plot, bars, histograms, boxplots, histograms, pie charts as necessary.
+
+5. In the plots, try to include more than 2 variables when appropriate through the use of colors, symbols etc.
